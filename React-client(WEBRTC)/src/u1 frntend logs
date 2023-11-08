@@ -1,0 +1,12 @@
+3Rtcclient.tsx:23 entered component
+Rtcclient.tsx:32 join:123
+Rtcclient.tsx:108 joinmeeeting
+Rtcclient.tsx:123 {aa: RTCSessionDescription}
+Rtcclient.tsx:130 ws.send(LD)
+Rtcclient.tsx:111 candidate:{"candidate":"candidate:3374386977 1 udp 2122260223 172.20.0.1 46435 typ host generation 0 ufrag 3NHw network-id 1","sdpMid":"0","sdpMLineIndex":0,"usernameFragment":"3NHw"}
+Rtcclient.tsx:111 candidate:{"candidate":"candidate:1489487190 1 udp 2122194687 192.168.0.113 47545 typ host generation 0 ufrag 3NHw network-id 2","sdpMid":"0","sdpMLineIndex":0,"usernameFragment":"3NHw"}
+Rtcclient.tsx:111 candidate:{"candidate":"candidate:3653108194 1 udp 2122129151 192.168.0.107 38800 typ host generation 0 ufrag 3NHw network-id 3 network-cost 10","sdpMid":"0","sdpMLineIndex":0,"usernameFragment":"3NHw"}
+Rtcclient.tsx:111 candidate:{"candidate":"candidate:3085888953 1 tcp 1518280447 172.20.0.1 9 typ host tcptype active generation 0 ufrag 3NHw network-id 1","sdpMid":"0","sdpMLineIndex":0,"usernameFragment":"3NHw"}
+Rtcclient.tsx:111 candidate:{"candidate":"candidate:638068686 1 tcp 1518214911 192.168.0.113 9 typ host tcptype active generation 0 ufrag 3NHw network-id 2","sdpMid":"0","sdpMLineIndex":0,"usernameFragment":"3NHw"}
+Rtcclient.tsx:111 candidate:{"candidate":"candidate:2809258874 1 tcp 1518149375 192.168.0.107 9 typ host tcptype active generation 0 ufrag 3NHw network-id 3 network-cost 10","sdpMid":"0","sdpMLineIndex":0,"usernameFragment":"3NHw"}
+Rtcclient.tsx:111 candidate:null
